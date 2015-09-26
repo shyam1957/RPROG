@@ -1,7 +1,7 @@
 # This is the CODE BOOK for the course project on Getting and Cleaning Data
 
 
-## cODE BOOK
+## CODE BOOK
 
 
 This code book summarizes the resulting data fields in tidy.txt.
