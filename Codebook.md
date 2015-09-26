@@ -8,6 +8,7 @@ This code book summarizes the resulting data fields in tidy.txt.
 
 
 Identifiers
+
 	* subject - The ID of the test subject
 	* activity - The type of activity performed when the corresponding measurements were taken
 	* measurements - The name of the measurement taken
@@ -15,6 +16,7 @@ Identifiers
 
 
 Measurements
+
  [1] "body-acceleration-mean-x-time"                  
  [2] "body-acceleration-mean-y-time"                  
  [3] "body-acceleration-mean-z-time"                  
@@ -86,6 +88,7 @@ Measurements
 
 
 Activity Labels
+
 	* WALKING (value 1): subject was walking during the test
 	* WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
 	* WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
