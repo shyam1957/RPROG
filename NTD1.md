@@ -15,3 +15,5 @@
 	5. I needed to re-number the bullets. I inserted 4 below 1 and expected that 	   git would re-number them. How wrong was I!
 
 	I like this. I want to know more.   What is this?
+
+Let me try this  This should go in next line Where as this stay in this second line
