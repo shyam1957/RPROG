@@ -6,8 +6,10 @@
 
 	1. I am a good man.
 
-	4. I have added this line below first. Let see what happens!
+	2. I have added this line below first. Let see what happens!
 
-	2. What is this?
+	3. What is this?
 
-	3. Why are you tired?
+	4. Why are you tired?
+
+	5. I needed to re-number the bullets. I inserted 4 below 1 and expected that 	   git would re-number them. How wrong was I!
